@@ -5,7 +5,7 @@ This repo contain notes, code,example and assignment related to the Object-Orien
 #Topic covered
 
 **Introduction to OOP**
--Procedural vs Object oriented Programming
+1.Procedural vs Object oriented Programming
 
 **Basic concept**
 -Class and Objects

@@ -5,25 +5,39 @@ This repo contain notes, code,example and assignment related to the Object-Orien
 #Topic covered
 
 **Introduction to OOP**
-1.Procedural vs Object oriented Programming
+
+  -Procedural vs Object oriented Programming
 
 **Basic concept**
+
 -Class and Objects
+
 -Constructor and Destructors
+
 -this pointer
 
 **Object oriented Principles**
+
 -Encapsulation
+
 -Abstraction
+
 -Inheritance (Single, Multiple, Multilevel, Hybrid)
+
 -Polymorphism (Compiletime and Runtime)
 
 **Advanced Concepts**
+
 -Operator overloading 
+
 -Function Overloading
+
 -Virtual Function and Abstract Classes
+
 -File Handling in C++
+
 -Templates and Exception Handling
+
 
 
 

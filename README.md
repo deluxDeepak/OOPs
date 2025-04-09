@@ -2,11 +2,11 @@
 This repo contain notes, code,example and assignment related to the Object-Oriented Programming (OOPs) concepts.The primary language is used is **c++**.
 
 
-#Topic covered
+##Topic covered
 
-**Introduction to OOP**
+###Introduction to OOP
 
-  -Procedural vs Object oriented Programming
+ -Procedural vs Object oriented Programming
 
 **Basic concept**
 

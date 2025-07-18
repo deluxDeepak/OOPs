@@ -1,2 +1,27 @@
 /project
 /.vscode
+
+# C++ build artifacts
+######################
+
+# Build directories
+/build/
+/bin/
+
+# Compiled Object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dll
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app

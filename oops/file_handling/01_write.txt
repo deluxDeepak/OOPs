@@ -15,4 +15,5 @@ ios::app    // Append mode
 ios::trunc  // Truncate mode
 ios::binary // Binary mode
 Important file operation :
+changed Important file operation :
 changed 

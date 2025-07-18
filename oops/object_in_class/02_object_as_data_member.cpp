@@ -27,6 +27,7 @@ public:
     void show_account()
     {
         // name & id show
+        cout <<account_holder.name<<endl;
         account_holder.display();
         cout << "Blance :" << balance << endl;
     }

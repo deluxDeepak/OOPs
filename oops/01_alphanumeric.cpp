@@ -13,6 +13,9 @@ int main()
     // ab ye space ke sath lega 
     getline(cin,input);
     cout<<input;
+    string num1;
+    cin>>num1;
+    cout<<num1;
     
 
     return 0;

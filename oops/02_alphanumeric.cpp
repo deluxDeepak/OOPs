@@ -30,4 +30,7 @@ int main()
     else
         cout <<"Invalid expression :" <<endl;
     return 0;
+    printf("Add the number");
+    
+    
 }

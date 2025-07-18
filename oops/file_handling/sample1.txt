@@ -1,1 +1,1 @@
-My name is :Deepak kumar mandal
+My name is :cd "d:\OOPs\oops\file_handling\" ; if ($?) { g++ 01_revise.cpp -o 01_revise } ; if ($?) { .\01_revise }

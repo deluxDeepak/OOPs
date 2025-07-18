@@ -35,3 +35,7 @@ int main()
     instance.show(); // calling default constructor
     return 0;
 }
+
+// output :-Parameterized constructor called
+//          Hello, World!
+//          Dispaly the show button

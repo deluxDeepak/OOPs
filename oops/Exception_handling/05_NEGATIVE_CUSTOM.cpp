@@ -3,21 +3,21 @@
 using namespace std;
 class negative_Number_Exception : public exception
 {
-    public:
-    // function for negative exception using 
-        const char*what() const noexcept override
+public:
+    // function for negative exception using
+    const char *what() const noexcept override
     {
         return "Error: Negative number entered!";
     }
 };
 void check_number(int num)
 {
-    if (num<0)
+    if (num < 0)
     {
+        // here class ka object banta hai aur oska member or constructor call hota hai 
         throw negative_Number_Exception();
     }
-    cout<<"Valid number :" <<endl;
-    
+    cout << "Valid number :" << endl;
 }
 int main()
 {
@@ -25,10 +25,10 @@ int main()
     {
         check_number(-29);
     }
-    catch(const negative_Number_Exception& e)
+    catch (const negative_Number_Exception &e)
     {
-        cout <<"Caught the Error in line 13"<< e.what() << '\n';
+        cout << "Caught the Error in line 13" << e.what() << '\n';
     }
-    
+
     return 0;
 }

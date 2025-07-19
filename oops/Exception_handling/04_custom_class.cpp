@@ -1,12 +1,14 @@
-// creting custom classs for the excptiion
+// creating custom classs for the excptiion
 #include <iostream>
 #include <exception>
 using namespace std;
 
+// Created exception is inherit from the exception class 
 class Division_by_zero : public exception
 {
 public:
-    // overrinding the what funxtion
+    // overrinding the what function
+    // noexcept :-koi exception nahi dega (ye ensure karega ki koi aur exception nhai dega )
     const char *what() const noexcept override
     {
         return "Divide by zero is not allowed !";

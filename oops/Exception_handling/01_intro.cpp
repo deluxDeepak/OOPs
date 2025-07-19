@@ -12,8 +12,9 @@ int main()
     try
     {
         // yahan pe wo code hoga jo exception throw kar sakta hai 
-        throw "Nme of exception!";
+        throw "Name of exception!";
     }
+
     // exception catch karenge 
     catch(const char* e)
     {

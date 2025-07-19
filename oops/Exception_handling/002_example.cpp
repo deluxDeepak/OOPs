@@ -10,8 +10,9 @@ int main()
     // ye define nahi hona chiye (divided by zero)
     try
     {
-        throw "Error: Division by zero is not allowed!";
+        throw "Error: Division by zero is not allowed!"; //Ye line pehle hoga 
         int c=a/b;
+        // Agr exception aa jaye to iske neeche code execute nahi hoga 
         cout<<"The division of "<<a<<" by "<<b<<" is "<<c<<endl;
         return 1;
         
